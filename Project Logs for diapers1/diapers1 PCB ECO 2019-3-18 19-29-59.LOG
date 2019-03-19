@@ -1,6 +1,0 @@
-Added Component: Designator=M1(CC25XXSM)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=D0 Pin=M1-1
-Added Pin To Net: NetName=DD/DHT12 Pin=M1-22
-Added Pin To Net: NetName=DC Pin=M1-23
-Added Member To Class: ClassName=diapers1 Member=Component M1 cc2540
