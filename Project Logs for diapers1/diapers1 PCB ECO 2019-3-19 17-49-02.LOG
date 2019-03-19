@@ -1,0 +1,152 @@
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=DC Pin=R7-1
+Removed Member From Class: ClassName=diapers1 Member=R6
+Removed Member From Class: ClassName=diapers1 Member=R7
+Change Component Footprint: Designator=J1 Old Footprint=D2.54-1*6 New Footprint=D-2.0-1*7
+Change Component Comment : Designator=J1 Old Comment=J-2.54 New Comment=J-D2.0-1*7
+Change component parameters: Designator = "R2"; Footprint = "R0603"; UniqueID = "\TYPLNODM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R0603"; UniqueID = "\WQCILFDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0603"; UniqueID = "\ONTMYBMS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R0603"; UniqueID = "\MLSWUOHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "D-LED0603G"; UniqueID = "\EFHWJGBY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "0603-GREEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "D-LED0603G"; UniqueID = "\SQBICEKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "0603-GREEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5"; Footprint = "D-LED0603G"; UniqueID = "\TWHQCOFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "0603-GREEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C0603"; UniqueID = "\AORQRTDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "100nF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C0603"; UniqueID = "\LIIYYHBT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "4.7uF±10%_16V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C0603"; UniqueID = "\QCQNONQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10uF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "C0603"; UniqueID = "\PFUPSGLH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "100nF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "C0603"; UniqueID = "\UGOVNXWG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10uF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "C0603"; UniqueID = "\XBMDYDXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "100nF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C0603"; UniqueID = "\PUWDCTAA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "10uF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "C0603"; UniqueID = "\FJHSINAU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "无编码 有封装"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "风华 三星"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "100nF±10%_50V_X7R_C0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R0603"; UniqueID = "\HUTQQPUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "1K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R0603"; UniqueID = "\DHRMVYVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "4.7K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "R0603"; UniqueID = "\UNNUHVUV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "470R±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "R0603"; UniqueID = "\NSFTMGCD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "470R±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "R0603"; UniqueID = "\TGIWGGYS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "供应商"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "厚声 国巨"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "规格型号"; Value = "1K±1%_1/10W_±200ppm_R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "货品编码"; Value = "无样品无编码"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=DC Pin=J1-6
+Change Net Name : Old Net Name=DD/DHT12 New Net Name=DHT12
+Added Pin To Net: NetName=DD Pin=J1-7
+Added Pin To Net: NetName=DD Pin=M1-1
+Added Net: Name=DD
