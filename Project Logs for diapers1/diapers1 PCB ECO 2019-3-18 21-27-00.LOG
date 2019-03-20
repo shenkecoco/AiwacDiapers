@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=D0 Pin=M1-1
+Removed Pin From Net: NetName=DD/DHT12 Pin=M1-21
+Removed Pin From Net: NetName=DC Pin=M1-22
+Added Pin To Net: NetName=DC Pin=M1-2
+Added Pin To Net: NetName=DD/DHT12 Pin=M1-3
+Added Pin To Net: NetName=USB_P/SCL Pin=M1-9
+Added Pin To Net: NetName=USB_M/SDA Pin=M1-10
+Added Pin To Net: NetName=D0 Pin=M1-23
+Added Pin To Net: NetName=RESET Pin=M1-24
