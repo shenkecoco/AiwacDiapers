@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+D:\epic\git\diapers1\AiwacDiapers\Project Outputs for diapers1\Pick Place for diapers1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/03/19
+Time:       17:53
+Revision:   01d5a7dcc7d1b105d79043d33e326ae8bacd9115
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint       Center-X(mm) Center-Y(mm) Rotation Description   
+U3         AMS1117_3.3V    BottomLayer SOT-223         14.1800      15.2400      90       AMS1117_3.3V  
+C1         104K50V         BottomLayer C0603           19.9390      23.5410      180      贴片电容-陶瓷       
+C2         475K16V         BottomLayer C0603           17.9070      5.7150       270      贴片电容-陶瓷       
+C3         106K50V         BottomLayer C0603           10.7950      8.7630       180      贴片电容-陶瓷       
+C4         104K50V         BottomLayer C0603           14.4780      8.7630       180      贴片电容-陶瓷       
+C5         106K50V         BottomLayer C0603           10.1600      19.8120      0        贴片电容-陶瓷       
+C6         104K50V         BottomLayer C0603           5.0800       16.2560      270      贴片电容-陶瓷       
+C7         106K50V         BottomLayer C0603           18.4150      9.9544       90       贴片电容-陶瓷       
+C8         104K50V         BottomLayer C0603           17.0180      9.9060       270      贴片电容-陶瓷       
+D1         LED0603G        BottomLayer D-LED0603G      22.8600      13.2080      90       贴片二极管-LED     
+D2         LED0603G        BottomLayer D-LED0603G      10.2870      5.7150       90       贴片二极管-LED     
+D3         ESDA_TR1/0603   TopLayer    HS_0603D        4.3180       9.2710       0        "Zener Diode" 
+D4         ESDA_TR1/0603   TopLayer    HS_0603D        5.2070       11.0490      0        "Zener Diode" 
+D5         LED0603G（NC）    BottomLayer D-LED0603G      10.1600      22.3520      0        贴片二极管-LED     
+J1         J-D2.0-1*7      TopLayer    D-2.0-1*7       1.5240       17.9070      90       J-D2.0-1*7    
+J2         J-D2.54-1*2     TopLayer    D2.54-1*2P      23.4950      2.9210       270      J-D2.54-1*2   
+J3         USB-MINI-SOCKET BottomLayer MICRO-USB_-_5.9 2.9710       3.9370       90       USB-A卧式插座     
+K1         SS-12D00        BottomLayer SS-12D00        6.2230       21.6770      270      SS-12D00      
+R1         1KF             BottomLayer R0603           20.0660      15.6210      360      贴片电阻-通用       
+R2         10KF            BottomLayer R0603           19.3040      13.2080      90       贴片电阻-通用       
+R3         4.7KF(NC)       TopLayer    R0603           5.2070       14.3510      270      贴片电阻-通用       
+R4         10KF            BottomLayer R0603           23.7490      15.8115      360      贴片电阻-通用       
+R5         5KF             BottomLayer R0603           14.8590      20.5740      270      贴片电阻-通用       
+R8         5KF             BottomLayer R0603           17.0180      23.1140      270      贴片电阻-通用       
+R9         R0603-15KF      BottomLayer R0603           18.0340      2.7940       180      贴片电容-通用       
+R10        470RF           BottomLayer R0603           14.3510      2.9210       180      贴片电阻-通用       
+R11        470RF           BottomLayer R0603           10.6680      2.9210       0        贴片电阻-通用       
+R12        1KF(NC)         BottomLayer R0603           13.2564      20.5740      270      贴片电阻-通用       
+S1         sw420           TopLayer    sw420           23.7490      17.0410      270      常闭振动传感器       
+U1         LM393-DR        BottomLayer LM393           21.5900      19.5580      360      双路比较器         
+U2         MCP73831        BottomLayer SOT23-5N        13.9700      5.5880       0        "charge IC"   
+M1         cc2540          TopLayer    CC25XXSM        14.3510      9.6520       0        ""            

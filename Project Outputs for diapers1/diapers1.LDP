@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\epic\git\diapers1\AiwacDiapers\diapers1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=diapers1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=diapers1-slotholes.txt|DrillLayers=gtl,gbl
